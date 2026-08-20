@@ -69,15 +69,6 @@ Saat ini saya juga terus mengembangkan kemampuan dalam **Python Geospatial, Java
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-**Backend digunakan untuk:**
-
-* REST API
-* Spatial data services
-* Request & response management
-* Integrasi frontend dengan geospatial processing
-* Menyediakan endpoint untuk spatial analysis
-* Integrasi dengan database dan processing engine
-
 ---
 
 ## 🐍 Geospatial Processing & Data Analysis
@@ -91,15 +82,6 @@ Saat ini saya juga terus mengembangkan kemampuan dalam **Python Geospatial, Java
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-**Geospatial processing workflow:**
-
-* **Rasterio** → raster processing & satellite imagery
-* **GeoPandas** → vector spatial data processing
-* **Pandas** → tabular data processing
-* **NumPy** → numerical & matrix computation
-* **Plotly** → interactive data visualization
-* **Scikit-learn** → machine learning & predictive analysis
-
 ---
 
 ## 🗺️ Web Mapping & Frontend
@@ -111,14 +93,6 @@ Saat ini saya juga terus mengembangkan kemampuan dalam **Python Geospatial, Java
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
-**Web mapping stack:**
-
-* **MapLibre GL JS** → interactive vector map rendering
-* **OpenStreetMap** → open geospatial map data
-* **HTML / CSS / JavaScript** → web interface & application logic
-
----
 
 ## 🗃️ Spatial Database & GIS Platform
 
