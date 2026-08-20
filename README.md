@@ -107,54 +107,6 @@ Saat ini saya juga terus mengembangkan kemampuan dalam **Python Geospatial, Java
 
 ---
 
-# 🏗️ Geospatial Application Architecture
-
-```mermaid
-flowchart TD
-
-    A[Geospatial Data] --> B[Geospatial Processing]
-
-    A1[OpenStreetMap] --> A
-    A2[Satellite Imagery] --> A
-    A3[Vector / Raster Data] --> A
-    A4[Survey Data] --> A
-
-    B --> C[Python Geospatial Engine]
-
-    C1[Rasterio] --> C
-    C2[GeoPandas] --> C
-    C3[Pandas] --> C
-    C4[NumPy] --> C
-    C5[Plotly] --> C
-    C6[Scikit-learn] --> C
-
-    C --> D[Spatial Database]
-
-    D1[PostgreSQL] --> D
-    D2[PostGIS] --> D
-
-    D --> E[Node.js Backend]
-
-    E1[Express.js] --> E
-    E2[REST API] --> E
-
-    E --> F[Web Mapping Frontend]
-
-    F1[MapLibre GL JS] --> F
-    F2[HTML / CSS / JavaScript] --> F
-    F3[OpenStreetMap] --> F
-
-    F --> G[Interactive Geospatial Application]
-```
-
-### 🔄 General Workflow
-
-**Data → Processing → Spatial Analysis → Database → API → Web Mapping → Visualization**
-
-Workflow ini memungkinkan data geospasial yang berasal dari raster, vector, OpenStreetMap, maupun data survei untuk diproses menggunakan Python, disimpan pada spatial database, kemudian disediakan melalui API dan divisualisasikan dalam aplikasi WebGIS.
-
----
-
 # 🧠 Spatial Analysis
 
 Beberapa analisis geospasial yang sedang dipelajari dan dikembangkan:
