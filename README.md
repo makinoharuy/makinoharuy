@@ -1,125 +1,266 @@
 <h1 align="center">Halo, Saya Adnan Yusuf Hartawan 👋</h1>
-<h3 align="center">Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS & Remote Sensing Enthusiast</h3>
+
+<h3 align="center">
+Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS • Remote Sensing • WebGIS
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Universitas Diponegoro-1E3A5F?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fokus-Geospatial%20Analysis-2E8B57?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Undergraduate-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Universitas%20Diponegoro-1E3A5F?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Geospatial%20Analysis-2E8B57?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Undergraduate-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👤 Tentang Saya
 
-Saya adalah mahasiswa **Teknik Geodesi, Universitas Diponegoro (Undip)** angkatan 2024, dengan minat besar pada dunia **Geographic Information System (GIS)** dan **Penginderaan Jauh (Remote Sensing)**. Saya tertarik mendalami analisis data geospasial mulai dari akuisisi data, pemrosesan citra satelit, hingga pengembangan aplikasi pemetaan berbasis web (WebGIS).
+Saya adalah mahasiswa **S1 Teknik Geodesi Universitas Diponegoro (UNDIP)** angkatan 2024 dengan ketertarikan pada **Geographic Information System (GIS), Remote Sensing, Geospatial Analysis, Photogrammetry, dan WebGIS**.
 
-Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** dan pernah menggunakan **MAPID** sebagai platform survei lapangan dan WebGIS.
+Saya tertarik mengembangkan workflow geospasial dari **data acquisition → spatial processing → analysis → visualization → web mapping**, dengan memanfaatkan teknologi open-source dan geospatial programming.
 
-- 🎓 Mahasiswa S1 Teknik Geodesi — Universitas Diponegoro (2024 – sekarang)
-- 🌍 Fokus minat: GIS, Remote Sensing, Fotogrametri, Survei Terestris, dan Basis Data Spasial
-- 🛰️ Ketertarikan terhadap bidang **Geographic Information System (GIS)** dan **Remote Sensing**
-- 📍 Berdomisili di Kota Bekasi
-- 📫 Kontak: adnanyusufhartawan06@gmail.com | https://www.linkedin.com/in/adnanyusufh/
+Saat ini saya juga terus mengembangkan kemampuan dalam **Python Geospatial, JavaScript, Web Mapping, Spatial Database, serta Backend API untuk aplikasi geospasial**.
+
+* 🎓 S1 Teknik Geodesi — Universitas Diponegoro (2024–sekarang)
+* 🌍 Fokus: GIS, Remote Sensing, Geospatial Analysis & WebGIS
+* 🛰️ Remote Sensing & Earth Observation
+* 📸 Photogrammetry & Surveying
+* 🗺️ Web Mapping & Spatial Data Visualization
+* 🗃️ Spatial Database & Geospatial Backend
+* 🌐 Berkontribusi dan menggunakan data dari OpenStreetMap
+* 📍 Kota Bekasi
+* 📫 **Email:** [adnanyusufhartawan06@gmail.com](mailto:adnanyusufhartawan06@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/adnanyusufh/
 
 ---
 
 ## 💼 Pengalaman Kerja
 
 ### Magang — Kantor Pertanahan Kota Administrasi Jakarta Timur
-**Januari 2026 – (Satu Bulan)**
 
-- Terlibat dalam kegiatan terkait survei dan pemetaan pertanahan di lingkup Kota Administrasi Jakarta Timur
-- Membantu proses pengukuran bidang tanah di daerah Kota Administrasi Jakarta Timur 
-- Membantu melakukan pengukuran sebagai asisten surveyor di perumahan daerah Ciracas, Jakarta Timur selusa 5000 m2
+**Januari 2026 — 1 Bulan**
 
-
----
-
-## 🚀 Proyek yang Pernah Dikerjakan
-
-| No | Proyek | Bahasa | Deskripsi Singkat |
-|---|---|---|---|
-| 1 | [LandUse ClassificationPurwakartaCity Using MachineLearning](https://github.com/shinmarizz/LandUse-ClassificationPurwakartaCity-Using-MachineLearning) | Jupyter Notebook (Python) | Klasifikasi tutupan/penggunaan lahan Kota Purwakarta menggunakan pendekatan machine learning. |
-| 2 | [WebGIS LST Kota Bekasi](https://github.com/shinmarizz/landsurfacetemperature-bekasicity-gee) | JavaScript | WebGIS interaktif untuk memantau Land Surface Temperature (LST) Kota Bekasi 2015–2025 via Google Earth Engine. |
-| 3 | [LandCover Classification SerangDistrict](https://github.com/shinmarizz/GEE-LandCover-Classification-SerangDistrict) | JavaScript | Pemetaan tutupan lahan Kabupaten Serang dari citra Landsat 8 dengan algoritma CART di Google Earth Engine. |
-| 4 | [Chloropleth Map Bekasi City Python Based](https://github.com/shinmarizz/Chloropleth-Map-Bekasi-City-Python-based) | Jupyter Notebook (Python) | Visualisasi peta choropleth jumlah penduduk & persebaran kafe Kota Bekasi. |
-| 5 | [Change Detection Kota Sukabumi](https://github.com/shinmarizz/Change-Detection-Deforestation-SukabumiCity-GEE)| Google Earth Engine / Python | Analisis deteksi perubahan (change detection) untuk memantau deforestasi di Kabupaten Sukabumi menggunakan citra satelit multi-temporal. |
-| 6 | [Analisis Mangrove Kabupaten Karawang](https://github.com/shinmarizz/ndvi-mvi-mangrove-gee-code-editor) | Google Earth Engine / Python | Analisis indeks vegetasi NDVI dan MVI untuk memantau kondisi vegetasi di Kabupaten Karawang. |
+* Terlibat dalam kegiatan survei dan pemetaan pertanahan.
+* Membantu proses pengukuran bidang tanah di wilayah Kota Administrasi Jakarta Timur.
+* Membantu pengukuran sebagai asisten surveyor pada kegiatan pengukuran bidang tanah di kawasan Ciracas, Jakarta Timur.
+* Mendukung proses pengumpulan dan pengolahan data hasil pengukuran.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Proyek Geospasial
 
-### Bahasa Pemrograman
+| No | Proyek                                                                                                                                                   | Teknologi                     | Deskripsi                                                                                         |
+| -- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1  | [LandUse Classification Purwakarta City Using Machine Learning](https://github.com/shinmarizz/LandUse-ClassificationPurwakartaCity-UsingMachineLearning) | Python, Jupyter, Scikit-learn | Klasifikasi tutupan/penggunaan lahan Kota Purwakarta menggunakan pendekatan machine learning.     |
+| 2  | [WebGIS LST Kota Bekasi](https://github.com/shinmarizz/landsurfacetemperature-bekasicity-gee)                                                            | JavaScript, GEE, WebGIS       | WebGIS interaktif untuk visualisasi Land Surface Temperature (LST) Kota Bekasi periode 2015–2025. |
+| 3  | [LandCover Classification Serang District](https://github.com/shinmarizz/GEE-LandCover-Classification-SerangDistrict)                                    | GEE, JavaScript, CART         | Pemetaan tutupan lahan Kabupaten Serang menggunakan citra Landsat 8.                              |
+| 4  | [Choropleth Map Bekasi City Python Based](https://github.com/shinmarizz/Chloropleth-Map-Bekasi-City-Python-based)                                        | Python, Pandas, GeoPandas     | Visualisasi data spasial dan statistik Kota Bekasi menggunakan peta choropleth.                   |
+| 5  | [Change Detection Sukabumi](https://github.com/shinmarizz/Change-Detection-Deforestation-SukabumiCity-GEE)                                               | GEE, Python, Remote Sensing   | Analisis perubahan tutupan lahan untuk memantau deforestasi menggunakan data multi-temporal.      |
+| 6  | [Mangrove Analysis Karawang](https://github.com/shinmarizz/ndvi-mvi-mangrove-gee-code-editor)                                                            | GEE, Python, NDVI, MVI        | Analisis indeks vegetasi untuk memantau kondisi ekosistem mangrove Kabupaten Karawang.            |
+
+---
+
+# 🧩 Geospatial Technology Stack
+
+## 🖥️ Backend & API
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+**Backend digunakan untuk:**
+
+* REST API
+* Spatial data services
+* Request & response management
+* Integrasi frontend dengan geospatial processing
+* Menyediakan endpoint untuk spatial analysis
+* Integrasi dengan database dan processing engine
+
+---
+
+## 🐍 Geospatial Processing & Data Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Rasterio-2D5F7B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
+
+**Geospatial processing workflow:**
+
+* **Rasterio** → raster processing & satellite imagery
+* **GeoPandas** → vector spatial data processing
+* **Pandas** → tabular data processing
+* **NumPy** → numerical & matrix computation
+* **Plotly** → interactive data visualization
+* **Scikit-learn** → machine learning & predictive analysis
+
+---
+
+## 🗺️ Web Mapping & Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/MapLibre%20GL%20JS-3966D8?style=for-the-badge&logo=maplibre&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Geospatial Tools & Platform
+**Web mapping stack:**
+
+* **MapLibre GL JS** → interactive vector map rendering
+* **OpenStreetMap** → open geospatial map data
+* **HTML / CSS / JavaScript** → web interface & application logic
+
+---
+
+## 🗃️ Spatial Database & GIS Platform
+
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeoServer-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MAPID-FF7A00?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-
-### Library & Framework Geospasial (Python)
-<p>
-  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/GDAL-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rasterio-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### Web Mapping & Frontend
-<p>
-  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maplibre_5-7952B3?style=for-the-badge&logo=maplibre&logoColor=white" />
-</p>
-
-### Tools Pendukung
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeoServer-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MAPID-FF7A00?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎯 Fokus Minat di Bidang Geodesi
+# 🏗️ Geospatial Application Architecture
 
-- 🛰️ **Remote Sensing** — analisis citra satelit (Landsat, Sentinel-2), deteksi perubahan tutupan lahan (LULC), dan indeks vegetasi/kebakaran (NDVI, dNBR, NBR)
-- 🗺️ **Geographic Information System (GIS)** — pengembangan WebGIS, analisis spasial, dan sistem basis data spasial (PostGIS)
-- 📸 **Fotogrametri** — Akuisisi dan pengolahan foto udara
-- 📐 **Survei & Geodesi** — Survei terestris dan survei rekayasa
+```mermaid
+flowchart TD
+
+    A[Geospatial Data] --> B[Geospatial Processing]
+
+    A1[OpenStreetMap] --> A
+    A2[Satellite Imagery] --> A
+    A3[Vector / Raster Data] --> A
+    A4[Survey Data] --> A
+
+    B --> C[Python Geospatial Engine]
+
+    C1[Rasterio] --> C
+    C2[GeoPandas] --> C
+    C3[Pandas] --> C
+    C4[NumPy] --> C
+    C5[Plotly] --> C
+    C6[Scikit-learn] --> C
+
+    C --> D[Spatial Database]
+
+    D1[PostgreSQL] --> D
+    D2[PostGIS] --> D
+
+    D --> E[Node.js Backend]
+
+    E1[Express.js] --> E
+    E2[REST API] --> E
+
+    E --> F[Web Mapping Frontend]
+
+    F1[MapLibre GL JS] --> F
+    F2[HTML / CSS / JavaScript] --> F
+    F3[OpenStreetMap] --> F
+
+    F --> G[Interactive Geospatial Application]
+```
+
+### 🔄 General Workflow
+
+**Data → Processing → Spatial Analysis → Database → API → Web Mapping → Visualization**
+
+Workflow ini memungkinkan data geospasial yang berasal dari raster, vector, OpenStreetMap, maupun data survei untuk diproses menggunakan Python, disimpan pada spatial database, kemudian disediakan melalui API dan divisualisasikan dalam aplikasi WebGIS.
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Spatial Analysis
+
+Beberapa analisis geospasial yang sedang dipelajari dan dikembangkan:
+
+* 🟢 **Buffer Analysis**
+* 🔵 **Proximity / Nearest Distance**
+* 🟠 **Network Analysis**
+* 🟣 **Isochrone Analysis**
+* 🔴 **Heatmap / Spatial Density**
+* 🟡 **Raster Analysis**
+* 🛰️ **Remote Sensing Analysis**
+* 🤖 **Machine Learning for Geospatial Data**
+* 📊 **Spatial Data Visualization**
+
+---
+
+# 🎯 Fokus Minat di Bidang Geodesi
+
+### 🛰️ Remote Sensing
+
+Analisis citra satelit seperti Landsat dan Sentinel-2, termasuk:
+
+* Land Use / Land Cover Classification
+* Change Detection
+* NDVI
+* NBR
+* dNBR
+* Vegetation Analysis
+
+### 🗺️ Geographic Information System
+
+* Spatial Analysis
+* WebGIS
+* Spatial Database
+* Geospatial Programming
+* Spatial Data Visualization
+
+### 📸 Fotogrametri
+
+* UAV Photogrammetry
+* Structure from Motion
+* Image Processing
+* Aerial Triangulation
+* Orthomosaic
+
+### 📐 Survei & Geodesi
+
+* Terrestrial Surveying
+* Engineering Survey
+* Land Survey
+* Spatial Measurement
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinmarizz&theme=default" />
 </p>
 
-## 📫 Hubungi Saya
+---
+
+# 📫 Connect With Me
 
 <p>
-  <a href="mailto:adnanyusufhartawan06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/adnanyusufh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/adnanyusuf06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:adnanyusufhartawan06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/adnanyusufh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/adnanyusuf06">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><i>README ini merupakan bagian dari repository biografi pribadi sebagai media portofolio geospasial.</i></p>
+<p align="center">
+  <i>
+    Building geospatial solutions through GIS, Remote Sensing, Spatial Analysis, and Web Mapping.
+  </i>
+</p>
