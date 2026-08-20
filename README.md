@@ -209,14 +209,6 @@ Analisis citra satelit seperti Landsat dan Sentinel-2, termasuk:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinmarizz&theme=default" />
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p>
