@@ -84,7 +84,7 @@ Selain aktif dalam perkuliahan, saya juga berkontribusi pada **OpenStreetMap** d
 ### Web Mapping & Frontend
 <p>
   <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maplibre_5-7952B3?style=for-the-badge&logo=maplibre&logoColor=white" />
 </p>
 
 ### Tools Pendukung
