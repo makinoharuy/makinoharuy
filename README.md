@@ -46,19 +46,6 @@ Saat ini saya juga terus mengembangkan kemampuan dalam **Python Geospatial, Java
 
 ---
 
-## 🚀 Proyek Geospasial
-
-| No | Proyek                                                                                                                                                   | Teknologi                     | Deskripsi                                                                                         |
-| -- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------- |
-| 1  | [LandUse Classification Purwakarta City Using Machine Learning](https://github.com/shinmarizz/LandUse-ClassificationPurwakartaCity-UsingMachineLearning) | Python, Jupyter, Scikit-learn | Klasifikasi tutupan/penggunaan lahan Kota Purwakarta menggunakan pendekatan machine learning.     |
-| 2  | [WebGIS LST Kota Bekasi](https://github.com/shinmarizz/landsurfacetemperature-bekasicity-gee)                                                            | JavaScript, GEE, WebGIS       | WebGIS interaktif untuk visualisasi Land Surface Temperature (LST) Kota Bekasi periode 2015–2025. |
-| 3  | [LandCover Classification Serang District](https://github.com/shinmarizz/GEE-LandCover-Classification-SerangDistrict)                                    | GEE, JavaScript, CART         | Pemetaan tutupan lahan Kabupaten Serang menggunakan citra Landsat 8.                              |
-| 4  | [Choropleth Map Bekasi City Python Based](https://github.com/shinmarizz/Chloropleth-Map-Bekasi-City-Python-based)                                        | Python, Pandas, GeoPandas     | Visualisasi data spasial dan statistik Kota Bekasi menggunakan peta choropleth.                   |
-| 5  | [Change Detection Sukabumi](https://github.com/shinmarizz/Change-Detection-Deforestation-SukabumiCity-GEE)                                               | GEE, Python, Remote Sensing   | Analisis perubahan tutupan lahan untuk memantau deforestasi menggunakan data multi-temporal.      |
-| 6  | [Mangrove Analysis Karawang](https://github.com/shinmarizz/ndvi-mvi-mangrove-gee-code-editor)                                                            | GEE, Python, NDVI, MVI        | Analisis indeks vegetasi untuk memantau kondisi ekosistem mangrove Kabupaten Karawang.            |
-
----
-
 # 🧩 Geospatial Technology Stack
 
 ## 🖥️ Backend & API
