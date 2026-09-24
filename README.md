@@ -12,22 +12,6 @@ Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS • Remote Sensing • Web
 
 ---
 
-## 👤 Tentang Saya
-
-Saya adalah mahasiswa **S1 Teknik Geodesi Universitas Diponegoro (UNDIP)** angkatan 2024 dengan ketertarikan pada **Geographic Information System (GIS), Remote Sensing, Geospatial Analysis, Photogrammetry, dan WebGIS**.
-
-Saya tertarik mengembangkan workflow geospasial dari **data acquisition → spatial processing → analysis → visualization → web mapping**, dengan memanfaatkan teknologi open-source dan geospatial programming.
-
-Saat ini saya juga terus mengembangkan kemampuan dalam **Python Geospatial, JavaScript, Web Mapping, Spatial Database, serta Backend API untuk aplikasi geospasial**.
-
-* 🎓 S1 Teknik Geodesi — Universitas Diponegoro (2024–sekarang)
-* 🌍 Fokus: GIS, Remote Sensing, Geospatial Analysis & WebGIS
-* 🛰️ Remote Sensing & Earth Observation
-* 📸 Photogrammetry & Surveying
-* 🗺️ Web Mapping & Spatial Data Visualization
-* 🗃️ Spatial Database & Geospatial Backend
-* 🌐 Berkontribusi dan menggunakan data dari OpenStreetMap
-* 📍 Kota Bekasi
 * 📫 **Email:** [adnanyusufhartawan06@gmail.com](mailto:adnanyusufhartawan06@gmail.com)
 * 💼 **LinkedIn:** https://www.linkedin.com/in/adnanyusufh/
 
