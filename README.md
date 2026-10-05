@@ -19,6 +19,14 @@ Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS • Remote Sensing • Web
 
 ## 💼 Pengalaman Kerja
 
+### Kontrak — MAPID
+
+**September 2026*
+
+* Working on the Point Of Interest (POI) cleansing data project of nutrition services in PT. Ajinomoto Indonesia
+* Converting approximately 7,000 POI data points from CSV to GeoJSON format for data visualization purposes.
+
+
 ### Magang — Kantor Pertanahan Kota Administrasi Jakarta Timur
 
 **Januari 2026 — 1 Bulan**
