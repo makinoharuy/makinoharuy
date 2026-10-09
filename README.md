@@ -17,24 +17,24 @@ Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS • Remote Sensing • Web
 
 ---
 
-## 💼 Pengalaman Kerja
+## 💼 Work Experience
 
-### Kontrak — MAPID
+### Contract — MAPID
 
-**September 2026*
+**September 2026**
 
-* Working on the Point Of Interest (POI) cleansing data project of nutrition services in PT. Ajinomoto Indonesia
-* Converting approximately 7,000 POI data points from CSV to GeoJSON format for data visualization purposes.
+* Worked on a Point of Interest (POI) data cleansing project for nutrition services at PT Ajinomoto Indonesia.
+* Converted approximately 7,000 POI data points from CSV to GeoJSON format for data visualization purposes.
 
 
-### Magang — Kantor Pertanahan Kota Administrasi Jakarta Timur
+### Internship — East Jakarta Administrative City Land Office
 
-**Januari 2026 — 1 Bulan**
+**January 2026 — 1 Month**
 
-* Terlibat dalam kegiatan survei dan pemetaan pertanahan.
-* Membantu proses pengukuran bidang tanah di wilayah Kota Administrasi Jakarta Timur.
-* Membantu pengukuran sebagai asisten surveyor pada kegiatan pengukuran bidang tanah di kawasan Ciracas, Jakarta Timur.
-* Mendukung proses pengumpulan dan pengolahan data hasil pengukuran.
+* Participated in land surveying and mapping activities.
+* Assisted with the land parcel measurement process in the East Jakarta Administrative City area.
+* Served as an assistant surveyor during land parcel measurements in the Ciracas district, East Jakarta.
+* Supported the collection and processing of measurement data.
 
 ---
 
