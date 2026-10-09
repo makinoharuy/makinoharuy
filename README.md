@@ -19,7 +19,11 @@ Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS • Remote Sensing • Web
 
 ## 💼 Work Experience
 
-### Contract — MAPID
+### GIS Analyst — AlphaCode
+
+**October 2026**
+
+### GIS Analyst — MAPID
 
 **September 2026**
 
@@ -27,7 +31,7 @@ Mahasiswa Teknik Geodesi Universitas Diponegoro | GIS • Remote Sensing • Web
 * Converted approximately 7,000 POI data points from CSV to GeoJSON format for data visualization purposes.
 
 
-### Internship — East Jakarta Administrative City Land Office
+### Assistant Surveyor — East Jakarta Administrative City Land Office
 
 **January 2026 — 1 Month**
 
