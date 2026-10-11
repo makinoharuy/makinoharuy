@@ -142,7 +142,114 @@ Analisis citra satelit seperti Landsat dan Sentinel-2, termasuk:
 * Land Survey
 * Spatial Measurement
 
+-# 🧠 Spatial Analysis
+
+Beberapa analisis geospasial yang sedang dipelajari dan dikembangkan:
+
+* 🟢 **Buffer Analysis**
+* 🔵 **Proximity / Nearest Distance**
+* 🟠 **Network Analysis**
+* 🟣 **Isochrone Analysis**
+* 🔴 **Heatmap / Spatial Density**
+* 🟡 **Raster Analysis**
+* 🛰️ **Remote Sensing Analysis**
+* 🤖 **Machine Learning for Geospatial Data**
+* 📊 **Spatial Data Visualization**
+
 ---
+
+# 🎯 Fokus Minat di Bidang Geodesi
+
+### 🛰️ Remote Sensing
+
+Analisis citra satelit seperti Landsat dan Sentinel-2, termasuk:
+
+* Land Use / Land Cover Classification
+* Change Detection
+* NDVI
+* NBR
+* dNBR
+* Vegetation Analysis
+
+### 🗺️ Geographic Information System
+
+* Spatial Analysis
+* WebGIS
+* Spatial Database
+* Geospatial Programming
+* Spatial Data Visualization
+
+### 📸 Fotogrametri
+
+* UAV Photogrammetry
+* Structure from Motion
+* Image Processing
+* Aerial Triangulation
+* Orthomosaic
+
+### 📐 Survei & Geodesi
+
+* Terrestrial Surveying
+* Engineering Survey
+* Land Survey
+* Spatial Measurement
+
+# 🧠 Spatial Analysis
+
+Beberapa analisis geospasial yang sedang dipelajari dan dikembangkan:
+
+* 🟢 **Buffer Analysis**
+* 🔵 **Proximity / Nearest Distance**
+* 🟠 **Network Analysis**
+* 🟣 **Isochrone Analysis**
+* 🔴 **Heatmap / Spatial Density**
+* 🟡 **Raster Analysis**
+* 🛰️ **Remote Sensing Analysis**
+* 🤖 **Machine Learning for Geospatial Data**
+* 📊 **Spatial Data Visualization**
+
+---
+
+# 🎯 Fokus Minat di Bidang Geodesi
+
+### 🛰️ Remote Sensing
+
+Analisis citra satelit seperti Landsat dan Sentinel-2, termasuk:
+
+* Land Use / Land Cover Classification
+* Change Detection
+* NDVI
+* NBR
+* dNBR
+* Vegetation Analysis
+
+### 🗺️ Geographic Information System
+
+* Spatial Analysis
+* WebGIS
+* Spatial Database
+* Geospatial Programming
+* Spatial Data Visualization
+
+### 📸 Fotogrametri
+
+* UAV Photogrammetry
+* Structure from Motion
+* Image Processing
+* Aerial Triangulation
+* Orthomosaic
+
+### 📐 Survei & Geodesi
+
+* Terrestrial Surveying
+* Engineering Survey
+* Land Survey
+* Spatial Measurement
+
+-# Project
+
+- GeoInsight
+<a href="https://github.com/makinoharuy/geoinsight-bekasi-city"></a>
 
 # 📫 Connect With Me
 
