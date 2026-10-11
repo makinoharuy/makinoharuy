@@ -246,10 +246,30 @@ Analisis citra satelit seperti Landsat dan Sentinel-2, termasuk:
 * Land Survey
 * Spatial Measurement
 
--# Project
+# 🚀 Project Portfolio
 
-- GeoInsight
-<a href="https://github.com/makinoharuy/geoinsight-bekasi-city"></a>
+Berikut adalah daftar proyek yang telah saya kerjakan, mencakup pengembangan aplikasi, pengolahan data, dan teknologi geospasial.
+
+| No. | Nama Project | Deskripsi | Tech Stack | Link Project |
+|:---:|---|---|---|---|
+| 1 | GeoClean | Sistem validasi dan pembersihan data geospasial secara otomatis untuk mendeteksi kesalahan atribut dan geometri. | Python, Streamlit, GeoPandas, Pandas, Shapely | <a href="https://github.com/makinoharuy/CodeAlpha_GeoClean">View Project</a> |
+| 2 | GeoInsight | GeoInsight adalah aplikasi WebGIS (Web Geographic Information System) yang dibangun untuk memvisualisasikan data risiko bencana dan jaringan transportasi Kota Bekasi secara interaktif.  | HTML, CSS, Javascript, Mapbox GL JS, Spatial SQL, Node.js, Express.js | <a href="https://github.com/makinoharuy/geoinsight-bekasi-city">ViewProject</a> |
+| 3 | Chloropleth Map Bekasi City | Project ini memanfaatkan data spasial administrasi Kota Bekasi berformat GeoJSON yang memuat batas wilayah beserta atribut jumlah penduduk, serta data lokasi café untuk menganalisis pola persebarannya. | Python, GeoPandas, LeafMap, Matplotlib, MapClassify | <a href="https://github.com/makinoharuy/Chloropleth-Map-Bekasi-City-Python-based">View Project</a> |
+
+
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Programming:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Geospatial:** GeoPandas, Shapely, QGIS, ArcGIS
+- **Version Control:** Git, GitHub
+
+---
+
+*This repository contains a collection of my projects, experiments, and learning journey in geospatial technology and data analysis.*
 
 # 📫 Connect With Me
 
